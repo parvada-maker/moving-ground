@@ -11,7 +11,7 @@ function preload(){
  fruit4=loadImage("fruit4.png")
 }
 function setup()
-{createCanvas(400,400)
+{createCanvas(900,900)
   sword=createSprite(200,200)
  sword.addImage(swordImg);
 }
